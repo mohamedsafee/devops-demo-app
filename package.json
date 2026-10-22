@@ -1,0 +1,12 @@
+
+{
+  "name": "devops-demo-app",
+  "version": "1.0.0",
+  "description": "A sample Node.js application for a DevOps CI/CD internship",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "private": true
+}
